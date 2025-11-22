@@ -1,0 +1,5 @@
+{
+  "name": "FloraBatch AI-2",
+  "description": "A batch processing tool that analyzes entire folders of flower images using Gemini AI to identify species and origins, exporting results to a spreadsheet.",
+  "requestFramePermissions": []
+}
